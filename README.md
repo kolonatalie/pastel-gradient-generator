@@ -4,11 +4,11 @@ Built entirely with **HTML, CSS, and JavaScript**, this generator is perfect for
 
 ---
 
-## **[Live Demo](https://kolonatalie.github.io/portfolio/)**
+## **[Live on GitHub Pages](https://kolonatalie.github.io/pastel-gradient-generator/)**
 ### 2-Color Generator :
-[![Website Screenshot](/images/two-colors-screenshot.jpeg)](https://kolonatalie.github.io/portfolio/)
+[![Website Screenshot](/images/two-colors-screenshot.jpeg)](https://kolonatalie.github.io/pastel-gradient-generator/)
 ### 3-Color Generator :
-[![Website Screenshot](/images/three-colors-screenshot.jpeg)](https://kolonatalie.github.io/portfolio/)
+[![Website Screenshot](/images/three-colors-screenshot.jpeg)](https://kolonatalie.github.io/pastel-gradient-generator/three.html)
 
 ---
 
